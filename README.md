@@ -8,8 +8,9 @@ If you want to more vanilla game look without these tweaks, you can try ![Defaul
 
 ## How to install
 1. Install ReShade
-2. Add files to your game folder
-3. To open ReShade in the game and change settings, Press "Home" Button
+2. Download config from Github: Press <>Code button > Download ZIP
+3. Extract files from archive and move them into your game folder: ./steamapps/common/Planet Coaster 2
+4. To open ReShade in the game and change settings, Press "Home" Button
 
 If you want to configure ReShade by your self, you can just take a LUT file: reshade-shaders > Textures > kridershot_lut.png
 
