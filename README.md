@@ -1,5 +1,5 @@
 # Planet Coaster 2 ReShade Config Flat
-Planet Coaster 2 looks too saturated compared the PlanCo 1 and Planet Zoo (especially at night), so I decided to make a simple reshade LUT config to make the colors more neutral.
+Planet Coaster 2 looks too saturated compared to PlanCo 1 and Planet Zoo (especially at night), so I decided to make a simple reshade LUT config to make the colors more neutral.
 
 This ReShade config has only LUT plugin, it **doesn't affect performance** at all. FPS would be the same.
 
